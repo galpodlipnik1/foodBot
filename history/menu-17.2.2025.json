@@ -1,0 +1,171 @@
+{
+  "Barjan": [
+    {
+      "number": 1,
+      "name": "PIŠČANČJI ZREZEK V GOBOVI OMAKI, RIŽ",
+      "additions": [
+        "cvetačna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Meso",
+      "emoji": "🥩"
+    },
+    {
+      "number": 2,
+      "name": "MESNA LAZANJA",
+      "additions": [
+        "cvetačna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Mešano",
+      "emoji": "🍲"
+    },
+    {
+      "number": 3,
+      "name": "POHORSKI LONEC",
+      "additions": [
+        "cvetačna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Mešano",
+      "emoji": "🍲"
+    },
+    {
+      "number": 4,
+      "name": "OCVRTI SIR, FRANCOSKA SOLATA",
+      "additions": [
+        "cvetačna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Brezmesno",
+      "emoji": "🥬"
+    },
+    {
+      "number": 5,
+      "name": "PICA S TUNO",
+      "additions": [
+        "cvetačna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Pizza",
+      "emoji": "🍕"
+    }
+  ],
+  "Spar": [
+    {
+      "number": 1,
+      "name": "PURANJI GOLAŽ S SVEŽIMI ŠAMPINJONI, ŠIROKI REZANCI",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Meso",
+      "emoji": "🥩"
+    },
+    {
+      "number": 2,
+      "name": "PEČEN OSLIČ (B. G.), OHROVT S KROMPIRJEM",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Riba",
+      "emoji": "🐟"
+    },
+    {
+      "number": 3,
+      "name": "KRVAVICA, KISLO ZELJE, PRAŽEN KROMPIR",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Meso",
+      "emoji": "🥩"
+    },
+    {
+      "number": 4,
+      "name": "PAŠTA FIŽOL S KLOBASO, 120G KRUHA",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Mešano",
+      "emoji": "🍲"
+    },
+    {
+      "number": 5,
+      "name": "POPEČEN TOFU S SEZAMOM, AZIJSKI REZANCI »GARAM MASALA« (VEGAN)",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Brezmesno",
+      "emoji": "🥬"
+    },
+    {
+      "number": 6,
+      "name": "PIŠČANČJI MEDALJONI, PRILOGA",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Hitra hrana",
+      "emoji": "🍟"
+    },
+    {
+      "number": 7,
+      "name": "OCVRT SIR, DOLLAR CHIPS, TATARSKA OMAKA",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Hitra hrana",
+      "emoji": "🍟"
+    },
+    {
+      "number": 8,
+      "name": "PURANJI ZREZEK NA ŽARU, PRILOGA",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Meso",
+      "emoji": "🥩"
+    },
+    {
+      "number": 9,
+      "name": "SOLATA IZ SOLATNEGA BARA, 400 G, (TUNINA)",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Solata",
+      "emoji": "🥗"
+    },
+    {
+      "number": 10,
+      "name": "DUNAJSKI ZREZEK (PIŠČANČJI), POMFRIT",
+      "additions": [
+        "dnevna juha",
+        "solata",
+        "sadje"
+      ],
+      "type": "Hitra hrana",
+      "emoji": "🍟"
+    }
+  ]
+}

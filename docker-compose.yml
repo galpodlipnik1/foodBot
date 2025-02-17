@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  foodbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: foodbot
+    restart: unless-stopped
+    volumes:
+      - foodbot_history:/app/history
+    env_file:
+      - .env
+    healthcheck:
+      test: ["CMD", "bun", "--version"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  foodbot_history:
+    name: foodbot_history
+    driver: local
