@@ -6,7 +6,7 @@ services:
     container_name: foodbot
     restart: unless-stopped
     volumes:
-      - foodbot_history:/app/history
+      - ./history:/app/history
     env_file:
       - .env
     healthcheck:
@@ -14,8 +14,3 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-
-volumes:
-  foodbot_history:
-    name: foodbot_history
-    driver: local

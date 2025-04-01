@@ -6,7 +6,7 @@ export type Commands = {
     description: string;
     type: number;
     required: boolean;
-    choices: {
+    choices?: {
       name: string;
       value: string;
     }[];

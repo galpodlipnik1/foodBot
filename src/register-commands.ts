@@ -34,12 +34,24 @@ const commands: Commands = [
         ],
       },
     ],
+  },
+  {
+    name: 'restaurant-by-url',
+    description: 'Get the specific restaurants menu by url',
+    options: [
+      {
+        name: 'url',
+        description: 'The url to get the menu from',
+        type: 3,
+        required: true
+      },
+    ]
   }
 ];
 
 const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN!);
 
-(async () => {
+export async function registerCommands() {
   try {
     console.log('Started refreshing application (/) commands.');
     
@@ -52,4 +64,4 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN!);
   } catch (error) {
     console.log(error);
   }
-})()
+};
